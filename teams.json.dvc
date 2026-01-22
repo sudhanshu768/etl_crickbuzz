@@ -1,0 +1,5 @@
+outs:
+- md5: e5b86a8a465f2cd176469a36f3844cbb
+  size: 4410
+  hash: md5
+  path: teams.json
